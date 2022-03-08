@@ -5,6 +5,7 @@ It mechanics of fps platformer, superhot, portal and some other
 * Main Menu
 * New Red Green puzzle mechanics
 * Slide
+* Respawn System
 * Etc.
 
 
