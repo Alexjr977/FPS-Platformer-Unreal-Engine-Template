@@ -1,5 +1,5 @@
 FPS Platformer Unreal Engine Template
-It mechanics of fps platformer, superhot, portal and some other
+It has mechanics of fps platformer, superhot, portal and some other
 * Superhot slow time mechanics
 * Portal grab and drop cube
 * Main Menu
