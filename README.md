@@ -1,4 +1,4 @@
-FPS Platformer Unreal Engine Template
+FPS Platformer Unreal Engine Template.
 It has mechanics of fps platformer, superhot, portal and some other
 * Superhot slow time mechanics
 * Portal grab and drop cube
