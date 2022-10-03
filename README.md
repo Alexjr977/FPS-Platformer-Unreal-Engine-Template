@@ -8,6 +8,14 @@ File Size : 250 MB
 * Slide
 * Respawn System
 * Etc.
+# Things Added In V.2
+* New UI with Sound Effects
+* Pause Menu
+* Bug Fixes
+* Improved and Explained Blueprints
+* Added Health and Damage
+* Added Death Screen and Health Bar
+* Deleted unnecessary files and cleaned project
 
 
 
