@@ -1,6 +1,6 @@
 FPS Platformer Unreal Engine Template.
 It has mechanics of fps platformer, superhot, portal and some other.
-File Size : V1: 250 MB, V2:187
+File Size : V1: 250 MB, V2:187. Checkout older versions here : https://alexjr.itch.io/fps-platformer-unreal-engine-template
 * Superhot slow time mechanics
 * Portal grab and drop cube
 * Main Menu
